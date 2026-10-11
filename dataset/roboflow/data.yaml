@@ -1,0 +1,11 @@
+path: C:/Users/User/pen-pencil-detector/dataset/roboflow
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: pen_pencil
+
+# Source: Roboflow Universe / phatcara/pens-and-pencils, version 1
+# Original classes: Blue-pen, Pencil, Red-pen
+# License: CC BY 4.0
